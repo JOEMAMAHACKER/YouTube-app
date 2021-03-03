@@ -8,3 +8,6 @@ Open the project. You will need to have Visual studio 2019 or later to open the 
 Run it!
 # 4.
 Have fun!
+
+# Note
+This is not done. We are currently working on vidoos, you could say this is wip.
