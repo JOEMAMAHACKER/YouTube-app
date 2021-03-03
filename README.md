@@ -1,6 +1,6 @@
 # YouTube App
-
 ## How to Compile
+
 ### Step 1
 Run the command: "git clone https://github.com/JOEMAMAHACKER/YouTube-app", Note: You will need to install git (https://git-scm.com)
 ### Step 2
