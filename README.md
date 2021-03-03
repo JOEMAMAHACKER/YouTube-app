@@ -1,9 +1,9 @@
 # YouTube App
 
 ## How to Compile
-### Step 1.
+### Step 1
 Run the command: "git clone https://github.com/JOEMAMAHACKER/YouTube-app", Note: You will need to install git (https://git-scm.com)
-### Step 2.
+### Step 2
 Open the project. You will need to have Visual studio 2019 or later to open the project. (open the .sln file)
 
 ## Note
