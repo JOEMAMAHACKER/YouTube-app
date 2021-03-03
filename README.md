@@ -10,4 +10,4 @@ Run it!
 Have fun!
 
 # Note
-This is not done. We are currently working on vidoos, you could say this is wip.
+This is not done. We are currently working on showing videos/playlist. This is wip for now......
