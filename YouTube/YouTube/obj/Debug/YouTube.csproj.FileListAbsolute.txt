@@ -1,0 +1,13 @@
+C:\Users\Megaport\Downloads\YouTube\YouTube\bin\Debug\YouTube.exe.config
+C:\Users\Megaport\Downloads\YouTube\YouTube\bin\Debug\YouTube.exe
+C:\Users\Megaport\Downloads\YouTube\YouTube\bin\Debug\YouTube.pdb
+C:\Users\Megaport\Downloads\YouTube\YouTube\obj\Debug\YouTube.csprojAssemblyReference.cache
+C:\Users\Megaport\Downloads\YouTube\YouTube\obj\Debug\YouTube.Form1.resources
+C:\Users\Megaport\Downloads\YouTube\YouTube\obj\Debug\YouTube.Properties.Resources.resources
+C:\Users\Megaport\Downloads\YouTube\YouTube\obj\Debug\YouTube.csproj.GenerateResource.cache
+C:\Users\Megaport\Downloads\YouTube\YouTube\obj\Debug\YouTube.csproj.CoreCompileInputs.cache
+C:\Users\Megaport\Downloads\YouTube\YouTube\obj\Debug\YouTube.exe
+C:\Users\Megaport\Downloads\YouTube\YouTube\obj\Debug\YouTube.pdb
+C:\Users\Megaport\Downloads\YouTube\YouTube\obj\Debug\YouTube.Mainapp.resources
+C:\Users\Megaport\Downloads\YouTube\YouTube\obj\Debug\YouTube.Gaming.resources
+C:\Users\Megaport\Downloads\YouTube\YouTube\obj\Debug\YouTube.Music.resources
